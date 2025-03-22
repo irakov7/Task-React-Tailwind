@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "image": "/images/Frankfurt.jpg",
+	"title": "Frankfurt am Main - Frankfurt International Airport (FRA)",
+    "city": "Airport Service Starting from",
+    "price": 450,
+    "currency": "EUR"
+  },
+  {
+    "id": 2,
+    "image": "/images/Munich.jpg",
+	"title": "Munich International Airport (MUC)",
+    "city": "Airport Service Starting from",
+    "price": 450,
+    "currency": "EUR"
+  },
+  {
+    "id": 3,
+    "image": "/images/London.jpg",
+	"title": "London - Heathrow International Airport (LHR)",
+    "city": "Airport Service Starting from",
+    "price": 450,
+    "currency": "EUR"
+  },
+  {
+    "id": 4,
+    "image": "/images/Paris.jpg",
+	"title": "Paris - Charles De Gaulle Airport (CDG)",
+    "city": "Airport Service Starting from",
+    "price": 450,
+    "currency": "EUR"
+  },
+  {
+    "id": 5,
+    "image": "/images/Munich.jpg",
+	"title": "Munich International Airport (MUC)",
+    "city": "Airport Service Starting from",
+    "price": 450,
+    "currency": "EUR"
+  },
+  {
+    "id": 1,
+    "image": "/images/Frankfurt.jpg",
+	"title": "Frankfurt am Main - Frankfurt International Airport (FRA)",
+    "city": "Airport Service Starting from",
+    "price": 450,
+    "currency": "EUR"
+  }
+ 
+]
