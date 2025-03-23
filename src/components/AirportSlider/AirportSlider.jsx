@@ -17,6 +17,18 @@ export default function AirportSlider() {
         nextEl: '#btn-right',
         prevEl: '#btn-left',
       }}
+	  breakpoints={{
+       
+        0: {
+          slidesPerView: 2,
+        },
+		850:{
+			slidesPerView: 3,
+		},
+        1024: {
+          slidesPerView: 4,
+        },
+      }}
     >
       {airports.map((airport, index) => (
         <SwiperSlide key={airport.id || index}>
