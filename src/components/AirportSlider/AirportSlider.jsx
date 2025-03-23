@@ -18,8 +18,8 @@ export default function AirportSlider() {
         prevEl: '#btn-left',
       }}
     >
-      {airports.map((airport) => (
-        <SwiperSlide key={airport.id}>
+      {airports.map((airport, index) => (
+        <SwiperSlide key={airport.id || index}>
           <AirportCard
             image={airport.image}
             title={airport.title}
