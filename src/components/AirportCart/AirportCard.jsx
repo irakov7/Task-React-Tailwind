@@ -5,8 +5,8 @@ function AirportCard ({ image, alt, title, price, currency }) {
 	<article className="card swiper-slide w-[286px] h-[440px] rounded-[12px] overflow-hidden flex flex-col justify-between group cursor-pointer">
 		<div className="transition-transform duration-300 ease-in-out group-hover:scale-90">
 			<img 
-			src={image} 
-			alt={alt} 
+			src={`${process.env.PUBLIC_URL}/${image}`} 
+			alt={alt}
 			/>
 		</div>
  		<div className="card-text pt-6 font-bold">
