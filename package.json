@@ -2,7 +2,7 @@
   "name": "react-tailwind-starter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://irakov7.github.io/Task-React-Tailwind-Swiper",
+  "homepage": "https://github.com/irakov7/Task-React-Tailwind.git",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
