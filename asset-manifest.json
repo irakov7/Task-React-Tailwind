@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task-React-Tailwind/static/css/main.35cb0563.css",
+    "main.js": "/Task-React-Tailwind/static/js/main.76000260.js",
+    "index.html": "/Task-React-Tailwind/index.html",
+    "main.35cb0563.css.map": "/Task-React-Tailwind/static/css/main.35cb0563.css.map",
+    "main.76000260.js.map": "/Task-React-Tailwind/static/js/main.76000260.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35cb0563.css",
+    "static/js/main.76000260.js"
+  ]
+}
