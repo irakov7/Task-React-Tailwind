@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Task-React-Tailwind/static/css/main.07935fd7.css",
-    "main.js": "/Task-React-Tailwind/static/js/main.83a5ff8d.js",
+    "main.js": "/Task-React-Tailwind/static/js/main.62e7cbdb.js",
     "index.html": "/Task-React-Tailwind/index.html",
     "main.07935fd7.css.map": "/Task-React-Tailwind/static/css/main.07935fd7.css.map",
-    "main.83a5ff8d.js.map": "/Task-React-Tailwind/static/js/main.83a5ff8d.js.map"
+    "main.62e7cbdb.js.map": "/Task-React-Tailwind/static/js/main.62e7cbdb.js.map"
   },
   "entrypoints": [
     "static/css/main.07935fd7.css",
-    "static/js/main.83a5ff8d.js"
+    "static/js/main.62e7cbdb.js"
   ]
 }
