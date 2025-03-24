@@ -22,12 +22,12 @@ function AirportCard ({ image, alt, title, price, currency }) {
 	</article>*/
 
 
-	<article className="card swiper-slide w-[286px] h-[440px] rounded-[12px] overflow-hidden flex flex-col justify-between group cursor-pointer">
-      <div className="overflow-hidden">
+	<article className="card swiper-slide w-[286px] h-[440px] overflow-hidden flex flex-col justify-between group cursor-pointer">
+      <div className="rounded-[12px] overflow-hidden">
         <img
           src={`${process.env.PUBLIC_URL}/${image}`}
           alt={alt}
-          className="rounded-[12px] transition-transform duration-300 ease-in-out group-hover:scale-105"
+          className="transition-transform duration-300 ease-in-out group-hover:scale-105"
         />
       </div>
       <div className="card-text pt-6 font-bold">
