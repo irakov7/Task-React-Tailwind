@@ -12,7 +12,7 @@ function CarouselNavigation () {
 					</button>
 				</div>
                <div className="nav-right">
-					<a href="#" className="see-all inline-block font-bold leading-7 text-[#192234] no-underline text-[20px]">See all Airports</a>
+					<a href="#" className="see-all inline-block font-bold leading-7 text-[#192234] no-underline text-[20px] hover:text-skyblue">See all Airports</a>
 			   </div>
         </div>
 
