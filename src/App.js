@@ -1,7 +1,6 @@
 import SectionTitle from './components/SectionTitle/SectionTitle';
 import CarouselNavigation from './components/CarouselNavigation/CarouselNavigation';
 
-
 import AirportSlider from './components/AirportSlider/AirportSlider';
 
 
