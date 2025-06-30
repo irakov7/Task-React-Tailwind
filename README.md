@@ -2,7 +2,7 @@
 
 Test task: a slider of popular airports implemented with React + Tailwind CSS + Swiper.js.
 
-## 🔗 Демо
+## 🔗 Demo
 
 👉 [Посмотреть сайт](https://irakov7.github.io/Task-React-Tailwind)
 
